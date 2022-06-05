@@ -55,7 +55,8 @@ body {
   .about-section p {
   font-size: 25px;
   }
-  .footer img{
+
+ .footer img{
     height: 10px;
     width: 200px;
   }
@@ -63,15 +64,15 @@ body {
 .footer{
   height: auto;
   display: grid;
-  grid-template-columns:200px 200px;
+  grid-template-columns:200px 170px;
   gap: 10px;
   padding-bottom: 0px;
 }
 
 #logo a img{
-  margin-left:300%;
-  width: 50%;
-  height: 100px;
+  margin-left: 340%;
+  width: 30%;
+  height: 50px;
 }
 
 h1{
