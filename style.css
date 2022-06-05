@@ -103,16 +103,6 @@
     color: white;
   }
   
-  section .btntwo {
-    background: #00b894;
-    color: white;
-  }
-  
-  .btntwo:hover {
-    background: #fff;
-    color: #000;
-  }
-  
   .change_content {
 
     color: #8aff50;
